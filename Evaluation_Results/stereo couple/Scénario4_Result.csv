@@ -1,0 +1,15 @@
+﻿Méthode,Temps d’exécution,nombre de points/image,Taux d'appariement correcte
+SIFT_L1,2.1876 sec,1443 points,77.5034 %
+SIFT_L2,0.7216 sec,1507 points,73.268 %
+AKAZE_L2,0.5027 sec,985 points,79.6294 %
+BRISK_L2,1.2399 sec,1743 points,73.285 %
+ORB_L2,0.152 sec,210 points,61.7622 %
+ORB_HAMMING,0.0931 sec,235 points,79.7709 %
+KAZE_L1,2.6167 sec,1447 points,83.7696 %
+STAR_SIFT_L1,0.2954 sec,409 points,85.6141 %
+STAR_SIFT_L2,0.2445 sec,398 points,84.6891 %
+FAST_SIFT_L1,12.0893 sec,5179 points,91.9922 %
+STAR_BRIEF_L2,0.0788 sec,339 points,79.1512 %
+STAR_BRIEF_HAMMING,0.0644 sec,380 points,86.5424 %
+STAR_BRISK_L1,0.1067 sec,302 points,73.7858 %
+STAR_BRISK_HAMMING,0.0885 sec,309 points,77.9081 %
