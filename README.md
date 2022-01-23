@@ -1,2 +1,2 @@
-# Evaluate_Scenario_using_Descriptor_OpenCV
+# Evaluate_Scenario_Descriptor_OpenCV
  
